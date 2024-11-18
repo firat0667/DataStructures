@@ -1,0 +1,14 @@
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\bin\Debug\net8.0\DataAlgorithms.exe
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\bin\Debug\net8.0\DataAlgorithms.deps.json
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\bin\Debug\net8.0\DataAlgorithms.runtimeconfig.json
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\bin\Debug\net8.0\DataAlgorithms.dll
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\bin\Debug\net8.0\DataAlgorithms.pdb
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.AssemblyInfoInputs.cache
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.AssemblyInfo.cs
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.dll
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\refint\DataAlgorithms.dll
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.pdb
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.genruntimeconfig.cache
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\ref\DataAlgorithms.dll
