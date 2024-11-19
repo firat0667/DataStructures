@@ -12,3 +12,4 @@ C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\Dat
 C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.pdb
 C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.genruntimeconfig.cache
 C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\ref\DataAlgorithms.dll
+C:\Users\FıratKocabacak\Downloads\AI_BaseGame\DataStructures\DataAlgorithms\DataAlgorithms\obj\Debug\net8.0\DataAlgorithms.sourcelink.json
